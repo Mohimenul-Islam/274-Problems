@@ -51,3 +51,5 @@ if __name__ == "__main__":
     learning = sys.argv[5] if len(sys.argv) > 5 else ""
     
     update_readme(problem_id, problem_name, problem_link, category, learning)
+
+#python3 update_readme.py "B" "B" "https://vjudge.net/contest/696883#problem/B" "Bitmask / Complete Search" "N/A"

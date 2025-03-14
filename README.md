@@ -32,10 +32,10 @@ This repository documents my journey of solving 274 competitive programming prob
     <td><strong>Days Remaining</strong></td>
   </tr>
   <tr>
-    <td>274</td>
     <td>2</td>
     <td>272</td>
-    <td>5</td>
+    <td>2</td>
+    <td>272</td>
     <td>45</td>
   </tr>
 </table>
@@ -54,7 +54,15 @@ The table below tracks my progress through all problems, including problem detai
     <th>New Learning</th>
     <th>Solution</th>
   </tr>
-  <tr>
+    <tr>
+    <td>B</td>
+    <td><a href="https://vjudge.net/contest/696883#problem/B">B</a></td>
+    <td>✅ Solved</td>
+    <td>Bitmask / Complete Search</td>
+    <td>N/A</td>
+    <td><a href="solutions/B.cpp">Solution</a></td>
+  </tr>
+<tr>
     <td>A</td>
     <td><a href="https://vjudge.net/contest/696883#problem/A">A</a></td>
     <td>✅ Solved</td>
@@ -66,14 +74,6 @@ The table below tracks my progress through all problems, including problem detai
       </details>
     </td>
     <td><a href="solutions/A.cpp">Solution</a></td>
-  </tr>
-  <tr>
-    <td>B</td>
-    <td><a href="https://codeforces.com/problemset/problem/A">A</a></td>
-    <td>✅ Solved</td>
-    <td></td>
-    <td></td>
-    <td><a href="solutions/B.cpp">Solution</a></td>
   </tr>
 </table>
 
