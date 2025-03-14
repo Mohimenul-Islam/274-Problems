@@ -55,75 +55,7 @@ The table below tracks my progress through all problems, including problem detai
     <th>Solution</th>
   </tr>
   
-  <!-- A -->
-  <tr>
-    <td>A</td>
-    <td><a href="#">A</a></td>
-    <td>✅ Solved</td>
-    <td>Basic, Implementation</td>
-    <td>
-      <details>
-        <summary>Show</summary>
-        Optimized input parsing technique
-      </details>
-    </td>
-    <td><a href="solutions/A.cpp">Solution</a></td>
-  </tr>
-  
-  <!-- B -->
-  <tr>
-    <td>B</td>
-    <td><a href="#">B</a></td>
-    <td>✅ Solved</td>
-    <td>Implementation, Arrays</td>
-    <td>
-      <details>
-        <summary>Show</summary>
-        Efficient array traversal pattern
-      </details>
-    </td>
-    <td><a href="solutions/B.cpp">Solution</a></td>
-  </tr>
-  
-  <!-- C -->
-  <tr>
-    <td>C</td>
-    <td><a href="#">C</a></td>
-    <td>✅ Solved</td>
-    <td>Math, Implementation</td>
-    <td>
-      <details>
-        <summary>Show</summary>
-        Mathematical pattern recognition
-      </details>
-    </td>
-    <td><a href="solutions/C.cpp">Solution</a></td>
-  </tr>
-  
-  <!-- Continue this pattern for other solved problems -->
-  <tr>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-  
-  <!-- Example of unsolved problem -->
-  <tr>
-    <td>CR</td>
-    <td><a href="#">Colorful Blocks</a></td>
-    <td>⏳ Pending</td>
-    <td>Dynamic Programming, Combinatorics</td>
-    <td>
-      <details>
-        <summary>Show</summary>
-        Not attempted yet
-      </details>
-    </td>
-    <td>-</td>
-  </tr>
+ 
 </table>
 
 ## 📝 Milestones
