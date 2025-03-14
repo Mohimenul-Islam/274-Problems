@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems-274-blue" alt="Problems"/>
-  <img src="https://img.shields.io/badge/Solved-31-brightgreen" alt="Solved"/>
+  <img src="https://img.shields.io/badge/Solved-2-brightgreen" alt="Solved"/>
   <img src="https://img.shields.io/badge/In_Progress-50_Days-orange" alt="Days"/>
   <img src="https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus" alt="Language"/>
 </p>
@@ -32,11 +32,11 @@ This repository documents my journey of solving 274 competitive programming prob
     <td><strong>Days Remaining</strong></td>
   </tr>
   <tr>
-    <td>274</td>
-    <td>31</td>
-    <td>243</td>
-    <td>15</td>
-    <td>35</td>
+    <td>2</td>
+    <td>272</td>
+    <td>2</td>
+    <td>272</td>
+    <td>45</td>
   </tr>
 </table>
 
@@ -54,8 +54,22 @@ The table below tracks my progress through all problems, including problem detai
     <th>New Learning</th>
     <th>Solution</th>
   </tr>
-  
- 
+    <tr>
+    <td>A</td>
+    <td><a href="https://vjudge.net/contest/696883#problem/A">A</a></td>
+    <td>✅ Solved</td>
+    <td>Sorting</td>
+    <td>Better Practice to convert time in seconds/minutes always and using functions on the go and implement later</td>
+    <td><a href="solutions/A.cpp">Solution</a></td>
+  </tr>
+<tr>
+    <td>A</td>
+    <td><a href="https://codeforces.com/problemset/problem/A">A</a></td>
+    <td>✅ Solved</td>
+    <td></td>
+    <td></td>
+    <td><a href="solutions/A.cpp">Solution</a></td>
+  </tr>
 </table>
 
 ## 📝 Milestones
@@ -72,5 +86,4 @@ The table below tracks my progress through all problems, including problem detai
 - Mastered segment tree implementation
 - Improved understanding of graph algorithms
 - Learned efficient string manipulation techniques
-
-
+</details>
