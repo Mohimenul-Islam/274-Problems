@@ -40,7 +40,6 @@ This repository documents my journey of solving 274 competitive programming prob
   </tr>
 </table>
 
-<details>
 
 ## 🧩 Problem Set
 
@@ -142,4 +141,4 @@ The table below tracks my progress through all problems, including problem detai
 - Improved understanding of graph algorithms
 - Learned efficient string manipulation techniques
 
-</details>
+
